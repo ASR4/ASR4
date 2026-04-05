@@ -48,6 +48,5 @@
 
 ### Random Facts
 
-- ☕ Fueled by coffee and curiosity
-- 🤖 Believes AI agents should meet users where they already are
-- 🧳 Building the future of AI-powered travel
+- ☕ Have 6 patents in AI + Computer Vision
+- 🤖 Lived in 8 cities
