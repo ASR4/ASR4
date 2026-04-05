@@ -16,6 +16,7 @@
 ## Current Projects
 
 - 🌍 **[Destinx](https://github.com/ASR4/destinx)** - WhatsApp-first AI travel agent powered by Claude, Browserbase + Stagehand, with memory-driven planning and browser automation. Built with Node.js, TypeScript, Fastify, PostgreSQL + pgvector, and BullMQ.
+- 🤖 **[Omni-Graph](https://github.com/ASR4/omni-graph)** - OmniGraph is a browser extension + dashboard that tracks everything you share with AI tools (ChatGPT, Claude, Gemini, etc.) and shows you a timeline and graph of what data you've disclosed, to which service, and how sensitive it was.
 
 ### Legacy Work
 
