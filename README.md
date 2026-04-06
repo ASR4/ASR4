@@ -20,7 +20,7 @@
 
 ### Legacy Work
 
-- 🎭 **[Attria](https://github.com/vibeingapp/attria)** - A project built under the Vibeing App org <!-- Update this description with your own -->
+- 🎭 **[Attria](https://github.com/vibeingapp/attria)** - AI fashion app, published it on Apple App Store. <!-- Update this description with your own -->
 
 ## What I'm Doing
 
