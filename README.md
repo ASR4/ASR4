@@ -18,6 +18,7 @@
 - 🌍 **[Destinx](https://github.com/ASR4/destinx)** - WhatsApp-first AI travel agent powered by Claude, Browserbase + Stagehand, with memory-driven planning and browser automation. Built with Node.js, TypeScript, Fastify, PostgreSQL + pgvector, and BullMQ.
 - 🤖 **[Omni-Graph](https://github.com/ASR4/omni-graph)** - OmniGraph is a browser extension + dashboard that tracks everything you share with AI tools (ChatGPT, Claude, Gemini, etc.) and shows you a timeline and graph of what data you've disclosed, to which service, and how sensitive it was.
 - 🧬 **[EvoHarness](https://github.com/ASR4/evo-harness)** - Open-source platform that automatically improves LLM agent harnesses through evolutionary search, inspired by Meta-Harness. Built with Python, Anthropic API, Typer, and Pydantic.
+- ✈️ **[SkyParse](https://github.com/ASR4/ai-atc)** - Real-time ATC radio intelligence platform that transcribes live air traffic control audio, parses controller instructions, and fuses them with ADS-B flight data for situational awareness. Built with Python, Whisper, Claude, FastAPI, TimescaleDB, and React.
 
 ### Legacy Work
 
