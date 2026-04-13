@@ -23,7 +23,7 @@
 ## Contributing To
 - 🔌 **[reShapr](https://github.com/reshaprio/reshapr)** - MCP Gateway that lets AI agents discover and call existing REST, GraphQL, and gRPC APIs through the Model Context Protocol. Built with Java 25, Quarkus, gRPC, PostgreSQL, Hazelcast, and a TypeScript CLI.
 
-### Legacy Work
+## Legacy Work
 
 - 🎭 **[Attria](https://github.com/vibeingapp/attria)** - AI fashion app, published it on Apple App Store. <!-- Update this description with your own -->
 
