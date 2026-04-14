@@ -50,7 +50,7 @@
 
 ### Philosophy
 
-> "Ship it, learn from it, ship it again." — I build tools to solve real problems, then share them with the world.
+> "If you are not learning or building, you are either dead or dead"
 
 ### Random Facts
 
