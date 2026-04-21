@@ -19,6 +19,7 @@
 - 🤖 **[Omni-Graph](https://github.com/ASR4/omni-graph)** - OmniGraph is a browser extension + dashboard that tracks everything you share with AI tools (ChatGPT, Claude, Gemini, etc.) and shows you a timeline and graph of what data you've disclosed, to which service, and how sensitive it was.
 - 🧬 **[EvoHarness](https://github.com/ASR4/evo-harness)** - Open-source platform that automatically improves LLM agent harnesses through evolutionary search, inspired by Meta-Harness. Built with Python, Anthropic API, Typer, and Pydantic.
 - ✈️ **[SkyParse](https://github.com/ASR4/ai-atc)** - Real-time ATC radio intelligence platform that transcribes live air traffic control audio, parses controller instructions, and fuses them with ADS-B flight data for situational awareness. Built with Python, Whisper, Claude, FastAPI, TimescaleDB, and React.
+- 📄 **[Build-Latex-Resume](https://github.com/ASR4/build-latex-resume)** - ATS-friendly, modern two-column resume template built with XeLaTeX and open-source fonts for clean, professional, print-ready CVs.
 
 ## Contributing To
 - 🔌 **[reShapr](https://github.com/reshaprio/reshapr)** - MCP Gateway that lets AI agents discover and call existing REST, GraphQL, and gRPC APIs through the Model Context Protocol. Built with Java 25, Quarkus, gRPC, PostgreSQL, Hazelcast, and a TypeScript CLI.
